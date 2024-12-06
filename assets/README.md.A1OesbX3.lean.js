@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as i,a3 as e}from"./chunks/framework.COm4hYgr.js";const F=JSON.parse('{"title":"Wilson Docs","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),t={name:"README.md"},n=e("",12),p=[n];function l(h,o,d,c,r,k){return i(),a("div",null,p)}const b=s(t,[["render",l]]);export{F as __pageData,b as default};
