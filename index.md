@@ -6,7 +6,7 @@ hero:
   text: 分布式多节点饥荒联机版游戏管理面板。
   tagline: 只需几步，轻松构建属于你自己的游戏集群
   image:
-    src: /src/public/wilson.png
+    src: /wilson.png
     alt: wilson
   actions:
     - theme: brand

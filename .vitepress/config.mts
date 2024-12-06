@@ -4,8 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Wilson",
   description: "Wilson是一个基于容器虚拟化实现的分布式游戏管理面板",
+  head:[['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
-    logo: "/src/public/logo.png",
+    logo: "/logo.png",
     footer: {
       message: '发布于MIT协议',
       copyright: '版权所有 © 2023-2024 <a href="https://github.com/dstgo">dstgo</a>'
