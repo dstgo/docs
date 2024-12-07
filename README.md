@@ -1,5 +1,7 @@
+[English](README.en.md)|**简体中文**
+
 # Wilson Docs
-wilson docs based on VitePress
+基于VitePress的wilson文档
 
 ## 安装
 安装pnpm
@@ -13,11 +15,15 @@ $ pnpm install
 
 ## 开发
 
-预览运行
+运行
 ```bash
 $ pnpm docs:dev
 ```
-编译
+预览
+```bash
+$ pnpm docs:preview
+```
+构建
 ```bash
 $ pnpm docs:build
 ```
