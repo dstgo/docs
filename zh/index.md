@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /src/quickstart
+      link: /quickstart
     - theme: alt
-      text: 入门指南
-      link: /src/intro
+      text: 介绍
+      link: /intro
     - theme: alt
       text: Github
       link: https://github.com/dstgo/wilson
